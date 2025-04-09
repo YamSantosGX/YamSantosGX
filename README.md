@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil
+## Welcome to my World!🌎
   <div>
    <a href="https://github.com/YamSantosGX">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YamSantosGX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação entre outros me segue nas redes abaixo!
+### Pra conteúdo sobre programação entre outros me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@yamzingx" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
